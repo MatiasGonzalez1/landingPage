@@ -1,6 +1,8 @@
 # Landing Page Prototipo
 Landing page usando html y css
 
+Deploy: https://matiasgonzalez1.github.io/landingPage/
+
 ![image](https://user-images.githubusercontent.com/83165602/179380469-bb285b7f-d343-467d-847b-53a385dedf2e.png)
 
 ![image](https://user-images.githubusercontent.com/83165602/179380481-5b270656-e9ae-4301-b475-eeb485ea7d90.png)
